@@ -1,3 +1,4 @@
-# Iris_decisiontree
-# numpy
-# pandas
+Requirements
+numpy
+pandas
+matplotlib.pyplot
